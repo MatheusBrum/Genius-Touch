@@ -1,0 +1,224 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* GeniusTouchAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1171, 504}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 504}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* GeniusTouch */ = {
+		activeExec = 0;
+		executables = (
+			84CC8E4211C2BBF200973C55 /* GeniusTouch */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* GeniusTouchViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {941, 668}}";
+			sepNavSelRange = "{856, 56}";
+			sepNavVisRange = "{0, 1098}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* GeniusTouchViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 1469}}";
+			sepNavSelRange = "{3818, 18}";
+			sepNavVisRange = "{2343, 3092}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 84CC8E4211C2BBF200973C55 /* GeniusTouch */;
+		activeSDKPreference = iphonesimulator4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* GeniusTouch */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* GeniusTouch */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 84CC8E4D11C2BC1200973C55 /* Code sense */;
+		executables = (
+			84CC8E4211C2BBF200973C55 /* GeniusTouch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					763,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302062046;
+			PBXWorkspaceStateSaveDate = 302062046;
+		};
+		perUserProjectItems = {
+			84550D8411DBF92B0048798C /* PlistBookmark */ = 84550D8411DBF92B0048798C /* PlistBookmark */;
+			84550D8511DBF92B0048798C /* PBXTextBookmark */ = 84550D8511DBF92B0048798C /* PBXTextBookmark */;
+			847E1F8E11F897AB008D9E3C /* PBXTextBookmark */ = 847E1F8E11F897AB008D9E3C /* PBXTextBookmark */;
+			84CC8E6B11C2C3F900973C55 /* PBXTextBookmark */ = 84CC8E6B11C2C3F900973C55 /* PBXTextBookmark */;
+			84CC8E6D11C2C3F900973C55 /* PBXTextBookmark */ = 84CC8E6D11C2C3F900973C55 /* PBXTextBookmark */;
+			84CD5E6611D3D11400C200BC /* PBXBookmark */ = 84CD5E6611D3D11400C200BC /* PBXBookmark */;
+			84CD5E6711D3D11400C200BC /* PBXBookmark */ = 84CD5E6711D3D11400C200BC /* PBXBookmark */;
+			84CD5E6811D3D11400C200BC /* PBXBookmark */ = 84CD5E6811D3D11400C200BC /* PBXBookmark */;
+			84CD5E6911D3D11400C200BC /* PBXBookmark */ = 84CD5E6911D3D11400C200BC /* PBXBookmark */;
+			84CD5E6A11D3D11400C200BC /* PBXBookmark */ = 84CD5E6A11D3D11400C200BC /* PBXBookmark */;
+			84D9E33E12021E150068B5AB /* PBXTextBookmark */ = 84D9E33E12021E150068B5AB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 84CC8E4C11C2BC1200973C55 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	84550D8411DBF92B0048798C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GeniusTouch-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouch-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	84550D8511DBF92B0048798C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* GeniusTouchViewController.h */;
+		name = "GeniusTouchViewController.h: 33";
+		rLen = 56;
+		rLoc = 856;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 0;
+	};
+	847E1F8E11F897AB008D9E3C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GeniusTouchViewController.m */;
+		name = "GeniusTouchViewController.m: 24";
+		rLen = 8;
+		rLoc = 1160;
+		rType = 0;
+		vrLen = 2968;
+		vrLoc = 0;
+	};
+	849433E711C30847003397AA /* botaoSelecionado.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 379}, {708, 494}}";
+		};
+	};
+	84CC8E4211C2BBF200973C55 /* GeniusTouch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GeniusTouch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	84CC8E4C11C2BC1200973C55 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	84CC8E4D11C2BC1200973C55 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	84CC8E6B11C2C3F900973C55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* GeniusTouchAppDelegate.h */;
+		name = "GeniusTouchAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 504;
+		vrLoc = 0;
+	};
+	84CC8E6D11C2C3F900973C55 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 84CC8E6E11C2C3F900973C55 /* DesenhoViewController.m */;
+		name = "DesenhoViewController.m: 113";
+		rLen = 74;
+		rLoc = 5717;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 4825;
+	};
+	84CC8E6E11C2C3F900973C55 /* DesenhoViewController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = DesenhoViewController.m;
+		path = /Users/matheusbrum/Desktop/Developer/Projetos/Desenho/Classes/DesenhoViewController.m;
+		sourceTree = "<absolute>";
+	};
+	84CD5E6611D3D11400C200BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 849433DE11C306B7003397AA /* teclas.png */;
+	};
+	84CD5E6711D3D11400C200BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8494344911C31201003397AA /* icon.png */;
+	};
+	84CD5E6811D3D11400C200BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8494340A11C30DCE003397AA /* botaoComecar.png */;
+	};
+	84CD5E6911D3D11400C200BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8494341311C30EB1003397AA /* background.png */;
+	};
+	84CD5E6A11D3D11400C200BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 849433E711C30847003397AA /* botaoSelecionado.png */;
+	};
+	84D9E33E12021E150068B5AB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* GeniusTouchViewController.m */;
+		name = "GeniusTouchViewController.m: 68";
+		rLen = 18;
+		rLoc = 3818;
+		rType = 0;
+		vrLen = 3092;
+		vrLoc = 2343;
+	};
+}

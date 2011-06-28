@@ -1,0 +1,610 @@
+TGeniusTouch
+v7
+r0
+t299716632.179744
+cCheck dependencies
+cCpResource build/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/Info.plist" GeniusTouch-Info.plist
+cCompileXIB "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib"
+cCompileXIB "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib"
+cCpResource build/Debug-iphoneos/GeniusTouch.app/1.wav 1.wav
+cCpResource build/Debug-iphoneos/GeniusTouch.app/2.wav 2.wav
+cCpResource build/Debug-iphoneos/GeniusTouch.app/3.wav 3.wav
+cCpResource build/Debug-iphoneos/GeniusTouch.app/4.wav 4.wav
+cCpResource build/Debug-iphoneos/GeniusTouch.app/error.wav error.wav
+cCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/teclas.png" teclas.png
+cCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png" botaoSelecionado.png
+cCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png" botaoComecar.png
+cCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/background.png" background.png
+cCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/icon.png" icon.png
+cProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch.gch GeniusTouch_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch.gch GeniusTouch_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/main.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchAppDelegate.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchViewController.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/main.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch" normal armv6
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchAppDelegate.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchViewController.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch" normal armv7
+cCreateUniversalBinary "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app.dSYM" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch"
+cProcessProductPackaging "/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision"
+cTouch "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent"
+cCodeSign "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C47991A0000000000000110
+t1279760666
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+c000000004BF4B7F900000000000001A7
+t1274329081
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004BFF3B9E000000000037E540
+t1275018142
+s3663168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioServices.h
+c000000004BFF3B700000000000010A78
+t1275018096
+s68216
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/1.wav
+c000000004C12BBD80000000000031898
+t1276296152
+s202904
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/2.wav
+c000000004C12BBD6000000000001B4BE
+t1276296150
+s111806
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/3.wav
+c000000004C12BBD40000000000030C3C
+t1276296148
+s199740
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/4.wav
+c000000004C12BBD0000000000001CE6C
+t1276296144
+s118380
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.h
+c000000004C12847200000000000001F8
+t1276281970
+s504
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m
+c000000004C1284720000000000000AA0
+t1276281970
+s2720
+i"GeniusTouchAppDelegate.h"
+i"GeniusTouchViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.h
+c000000004C13EF38000000000000044A
+t1276374840
+s1098
+i<UIKit/UIKit.h>
+i<AudioToolbox/AudioServices.h>
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m
+c000000004C23997600000000000019D6
+t1277401462
+s6614
+i"GeniusTouchViewController.h"
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib
+c000000004C12E2460000000000007DD0
+t1276305990
+s32208
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouch_Prefix.pch
+c000000004C12847200000000000000BF
+t1276281970
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib
+c000000004C1284720000000000004E59
+t1276281970
+s20057
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/background.png
+c000000004C12D71F000000000001D579
+t1276303135
+s120185
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoComecar.png
+c000000004C12D63B000000000000F512
+t1276302907
+s62738
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoSelecionado.png
+c000000004C12D0B20000000000000365
+t1276301490
+s869
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app
+t1278023832
+s714
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app.dSYM
+t1278023831
+s102
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/1.wav
+t1278023830
+s202904
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/2.wav
+t1278023830
+s111806
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/3.wav
+t1278023830
+s199740
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/4.wav
+t1278023830
+s118380
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch
+t1278023831
+s73472
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouchViewController.nib
+t1278023830
+s5246
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/Info.plist
+t1278023829
+s813
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/MainWindow.nib
+t1278023829
+s1689
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/PkgInfo
+t1278023829
+s8
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist
+t1278023829
+s485
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/background.png
+t1278023830
+s203885
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png
+t1278023830
+s57379
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png
+t1278023830
+s833
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision
+t1278023831
+s8149
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/error.wav
+t1278023830
+s327560
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/icon.png
+t1278023830
+s6353
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/teclas.png
+t1278023830
+s9998
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent
+t1278023831
+s428
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch
+t1278023831
+s30672
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch.LinkFileList
+c000000004C2D189500000000000001E3
+t1278023829
+s483
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchAppDelegate.o
+t1278023831
+s47852
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchViewController.o
+t1278023831
+s61960
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/main.o
+t1278023830
+s6488
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch
+t1278023831
+s26552
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch.LinkFileList
+c000000004C2D189500000000000001E3
+t1278023829
+s483
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchAppDelegate.o
+t1278023831
+s47772
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchViewController.o
+t1278023831
+s61416
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/main.o
+t1278023831
+s6472
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/error.wav
+c000000004C12BF50000000000004FF88
+t1276297040
+s327560
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/icon.png
+c000000004C12DA680000000000001059
+t1276303976
+s4185
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m
+c000000004C128472000000000000016E
+t1276281970
+s366
+i<UIKit/UIKit.h>
+
+N/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/teclas.png
+c000000004C12CF2700000000000032D1
+t1276301095
+s13009
+
+N/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision
+c000000004BEF2B610000000000001FD5
+t1273965409
+s8149
+
+N/var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch.gch
+t2
+s0
+
+NGeniusTouch-Info.plist
+c000000004C12DB8B00000000000003C6
+t1276304267
+s966
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies299716629#299716629#0(0"0(0#1#0"8633143392#0"0#
+
+CCodeSign "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"
+s299716631.969855
+e299716632.179698
+r1
+xCodeSign
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app
+lSLF07#2@45"CodeSign build/Debug-iphoneos/GeniusTouch.app299716631#299716632#0(0"0(0#0#99"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app8630700416#778"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Matheus Faber Brum (UGYC6P4A9V)" "--resource-rules=/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist" --entitlements "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchAppDelegate.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299716630.607335
+e299716631.019312
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchAppDelegate.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m299716630#299716631#0(0"0(0#0#95"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m8625805888#2134"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv6" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchAppDelegate.o"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchViewController.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299716630.980150
+e299716631.084592
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchViewController.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m299716630#299716631#0(0"0(0#0#98"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m8633094464#2140"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv6" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouchViewController.o"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/main.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s299716630.605040
+e299716630.979989
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/main.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m299716630#299716630#0(0"0(0#0#69"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m8631554368#2090"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv6" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchAppDelegate.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299716631.130203
+e299716631.807799
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchAppDelegate.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m299716631#299716631#0(0"0(0#0#95"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m8626299680#2134"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv7" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchAppDelegate.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchAppDelegate.o"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchViewController.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299716631.782218
+e299716631.884853
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchViewController.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m299716631#299716631#0(0"0(0#0#98"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m8632820288#2140"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv7" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/Classes/GeniusTouchViewController.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouchViewController.o"0#
+
+CCompileC build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/main.o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s299716631.019421
+e299716631.782112
+r1
+xCompileC
+xbuild/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/main.o
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m299716631#299716631#0(0"0(0#0#69"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m8632207392#2090"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=3.0 -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-generated-files.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-own-target-headers.hmap" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-all-target-headers.hmap" -iquote "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch-project-headers.hmap" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/include" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources/armv7" "-I/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/DerivedSources" -include /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/main.m" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib"
+s299716629.502766
+e299716630.123622
+r1
+xCompileXIB
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib
+lSLF07#2@40"CompileXIB GeniusTouchViewController.xib299716629#299716630#0(0"0(0#0#92"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib8624976160#654"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouchViewController.nib" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouchViewController.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCompileXIB "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib"
+s299716629.501981
+e299716630.014336
+r1
+xCompileXIB
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib299716629#299716630#0(0"0(0#0#77"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib8596570336#624"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/MainWindow.nib" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk0#
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/background.png" background.png
+s299716630.161508
+e299716630.604778
+r1
+xCopyPNGFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/background.png
+xbackground.png
+lSLF07#2@78"CopyPNGFile build/Debug-iphoneos/GeniusTouch.app/background.png background.png299716630#299716630#0(0"0(0#0#77"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/background.png8625230176#650"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/background.png" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/background.png"0#
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png" botaoComecar.png
+s299716630.160208
+e299716630.316625
+r1
+xCopyPNGFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png
+xbotaoComecar.png
+lSLF07#2@82"CopyPNGFile build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png botaoComecar.png299716630#299716630#0(0"0(0#0#79"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoComecar.png8629836224#654"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoComecar.png" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoComecar.png"0#
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png" botaoSelecionado.png
+s299716630.123716
+e299716630.161432
+r1
+xCopyPNGFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png
+xbotaoSelecionado.png
+lSLF07#2@90"CopyPNGFile build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png botaoSelecionado.png299716630#299716630#0(0"0(0#0#83"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoSelecionado.png8631530784#662"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/botaoSelecionado.png" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/botaoSelecionado.png"0#
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/icon.png" icon.png
+s299716630.316720
+e299716630.343874
+r1
+xCopyPNGFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/icon.png
+xicon.png
+lSLF07#2@66"CopyPNGFile build/Debug-iphoneos/GeniusTouch.app/icon.png icon.png299716630#299716630#0(0"0(0#0#71"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/icon.png8627093984#638"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/icon.png" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/icon.png"0#
+
+CCopyPNGFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/teclas.png" teclas.png
+s299716630.027036
+e299716630.160105
+r1
+xCopyPNGFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/teclas.png
+xteclas.png
+lSLF07#2@70"CopyPNGFile build/Debug-iphoneos/GeniusTouch.app/teclas.png teclas.png299716630#299716630#0(0"0(0#0#73"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/teclas.png8631966912#642"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/teclas.png" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/teclas.png"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/1.wav 1.wav
+s299716630.014430
+e299716630.119372
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/1.wav
+x1.wav
+lSLF07#2@10"Copy 1.wav299716630#299716630#0(0"0(0#0#68"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/1.wav8632764096#517"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/1.wav" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/2.wav 2.wav
+s299716630.018914
+e299716630.082962
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/2.wav
+x2.wav
+lSLF07#2@10"Copy 2.wav299716630#299716630#0(0"0(0#0#68"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/2.wav8632645728#517"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/2.wav" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/3.wav 3.wav
+s299716630.021043
+e299716630.103653
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/3.wav
+x3.wav
+lSLF07#2@10"Copy 3.wav299716630#299716630#0(0"0(0#0#68"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/3.wav8632584640#517"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/3.wav" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/4.wav 4.wav
+s299716630.021962
+e299716630.081969
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/4.wav
+x4.wav
+lSLF07#2@10"Copy 4.wav299716630#299716630#0(0"0(0#0#68"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/4.wav8632331968#517"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/4.wav" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+s299716629.469513
+e299716629.501327
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist299716629#299716629#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist8630717664#536"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCpResource build/Debug-iphoneos/GeniusTouch.app/error.wav error.wav
+s299716630.026031
+e299716630.093342
+r1
+xCpResource
+xbuild/Debug-iphoneos/GeniusTouch.app/error.wav
+xerror.wav
+lSLF07#2@14"Copy error.wav299716630#299716630#0(0"0(0#0#72"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/error.wav8632220480#521"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/error.wav" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
+CCreateUniversalBinary "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch" normal "armv6 armv7"
+s299716631.911556
+e299716631.915439
+r1
+xCreateUniversalBinary
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/GeniusTouch.app/GeniusTouch normal "armv6 armv7"299716631#299716631#0(0"0(0#0#74"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/armv6 armv78630802912#654"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch" -output "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch"0#
+
+CGenerateDSYMFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app.dSYM" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch"
+s299716631.915529
+e299716631.946874
+r1
+xGenerateDSYMFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app.dSYM
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/GeniusTouch.app.dSYM build/Debug-iphoneos/GeniusTouch.app/GeniusTouch299716631#299716631#0(0"0(0#0#111"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch8627290784#452"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/GeniusTouch" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app.dSYM"0#
+
+CLd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch" normal armv6
+s299716631.084693
+e299716631.130094
+r1
+xLd
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch
+xnormal
+xarmv6
+lSLF07#2@157"Link /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch299716631#299716631#0(0"0(0#0#0"8631104480#1037"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" -filelist "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch.LinkFileList" -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv6/GeniusTouch"0#
+
+CLd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch" normal armv7
+s299716631.884951
+e299716631.911441
+r1
+xLd
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch
+xnormal
+xarmv7
+lSLF07#2@157"Link /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch299716631#299716631#0(0"0(0#0#0"8631964096#1037"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv IPHONEOS_DEPLOYMENT_TARGET 3.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk "-L/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" "-F/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos" -filelist "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch.LinkFileList" -dead_strip -miphoneos-version-min=3.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework AudioToolbox -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/Objects-normal/armv7/GeniusTouch"0#
+
+CProcessInfoPlistFile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/Info.plist" GeniusTouch-Info.plist
+s299716629.470566
+e299716629.501909
+r1
+xProcessInfoPlistFile
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/Info.plist
+xGeniusTouch-Info.plist
+lSLF07#2@30"Process GeniusTouch-Info.plist299716629#299716629#0(0"0(0#0#85"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/GeniusTouch-Info.plist8626865856#682"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility GeniusTouch-Info.plist -genpkginfo "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/ResourceRules.plist" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/Info.plist"0#
+
+CProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-drmspyuhrcukmrdrjhqvijdaxqve/GeniusTouch_Prefix.pch.gch GeniusTouch_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/Oh/Oh68XJYRE6KDcMG+rhTFlk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/GeniusTouch_Prefix-hlavfwgtzhhuwcdrslsnhwrbhnat/GeniusTouch_Prefix.pch.gch GeniusTouch_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision" "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision"
+s299716631.946976
+e299716631.948710
+r1
+xProcessProductPackaging
+x/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision
+lSLF07#2@202"ProcessProductPackaging "/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision" build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision299716631#299716631#0(0"0(0#0#124"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision8610110848#485"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/matheusbrum/Library/MobileDevice/Provisioning Profiles/9C24A3BA-C0DD-441B-8EE3-AF0FA0397DCD.mobileprovision" -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent"
+s299716631.952073
+e299716631.969746
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent299716631#299716631#0(0"0(0#0#137"/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent8625145760#496"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/Entitlements.plist -entitlements -format xml -o "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/GeniusTouch.build/Debug-iphoneos/GeniusTouch.build/GeniusTouch.xcent"0#
+
+CTouch "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"
+s299716631.948812
+e299716631.951986
+r1
+xTouch
+x/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app
+lSLF07#2@105"Touch /Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app299716631#299716631#0(0"0(0#0#0"8622954848#320"    cd "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/matheusbrum/Desktop/Developer/Bem sucedidos/GeniusTouch/build/Debug-iphoneos/GeniusTouch.app"0#
+
